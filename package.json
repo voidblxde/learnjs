@@ -1,0 +1,19 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "learnjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidblxde/learnjs.git"
+  },
+  "author": "voidblxde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidblxde/learnjs/issues"
+  },
+  "homepage": "https://github.com/voidblxde/learnjs#readme"
+}
